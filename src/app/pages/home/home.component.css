@@ -1,0 +1,92 @@
+.top-banner {
+    padding: 20vh 0vw;
+    text-align: center;
+    background-image: linear-gradient(#00BCD4, #673AB7);
+    color: #ffffff;
+}
+
+.heading {
+    font-size: 36px;
+    margin-bottom: 4vh;
+}
+
+.shop-now {
+    border: 1px solid red;
+    font-size: 30px;
+    padding: 2vh 1vw;
+    background-color: transparent;
+}
+
+.shop-now:hover {
+    background-color: #ff00008f;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.red {
+    color: red;
+}
+
+.white-space {
+    text-align: center;
+    padding: 10vh 0;
+}
+
+.third-baner {
+    text-align: center;
+    width: 96%;
+    margin: auto;
+    margin-bottom: 10vh;
+}
+
+.img-box {
+    background-color: antiquewhite;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.style-me {
+    margin-top: 6vh 0;
+    font-size: 30px;
+    padding: 3vh;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.style-box {
+    background: antiquewhite;
+    width: 100%;
+    height: 400px;
+}
+
+.style-finder {
+    background-color: #ffffff;
+    margin: 0 0 40px 0;
+}
+
+.style-finder-box {
+    width: 80%;
+    height: 250px;
+    margin: auto;
+}
+
+.match-me {
+    width: auto;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+}
+
+.style-finder-box:hover {
+    transform: scale(1.2, 1.2);
+    transition: 0.5s;
+}
+
+.video-section video {
+    margin: 40px 14px;
+    background: antiquewhite;
+    width: -webkit-fill-available;
+    height: 70vh;
+}
